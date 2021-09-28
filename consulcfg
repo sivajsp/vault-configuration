@@ -1,4 +1,3 @@
-   23  vim /etc/systemd/system/vault.service
 [Unit]
 Description=Vault
 Documentation=https://www.vault.io/
